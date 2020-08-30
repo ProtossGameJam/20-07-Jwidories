@@ -5,7 +5,7 @@
 ## 팀 쥐돌이헌쳇바퀴에타고파
 * **[독서만세(UnSa)](https://twitter.com/koreakid91)**: 기획
 * **[유코](https://twitter.com/u_cho_T)**: 그래픽
-* **[잇창명](https://github.com/EatChangmyeong)**, **중딩프로그래머**: 프로그래밍
+* **[잇창명](https://github.com/EatChangmyeong)**, **[중딩프로그래머](https://twitter.com/yangis1019)**: 프로그래밍
 
 ## 컴파일
 게임메이커: 스튜디오 1.4.9999가 필요합니다. GM:S 1.x는 2018년에 지원이 중단되었고 기존 사용자 이외에는 다운로드를 할 수 없게 되었기 때문에 GM:S 1.x 라이선스가 없을 경우 컴파일할 수 없습니다. 😅
